@@ -10,3 +10,18 @@
     padding: 30px;
     text-align: center;
 }
+
+.icons{
+    text-align: center;
+}
+i{
+    color: rgb(255, 27, 65);
+}
+
+.fa-facebook{
+    color: blue;
+}
+
+.fa-youtube{
+    color: red;
+}
